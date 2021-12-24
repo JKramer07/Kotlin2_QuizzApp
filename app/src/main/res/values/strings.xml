@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kotlin2_QuizzApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main">Main</string>
+    <string name="question_amount">Question amount: 3</string>
+    <string name="category">Category</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="start">Start</string>
+    <string name="quiz">Quiz</string>
+    <string-array name="spinner_category">
+        <item>All</item>
+    </string-array>
+    <string-array name="spinner_difficulty">
+        <item>All</item>
+    </string-array>
+</resources>
